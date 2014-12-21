@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47eea06b-249b-4fad-9917-c1ba966e1571" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/key() example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list().php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/key() example.php" afterPath="$PROJECT_DIR$/key() example.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="classwork11.iws" />
@@ -28,16 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="arsort() example.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arsort() example.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="210">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="asort() example.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/asort() example.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,10 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="key() example.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="key() example.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/key() example.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list().php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/list().php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -155,6 +156,7 @@
         <option value="$PROJECT_DIR$/extract.php" />
         <option value="$PROJECT_DIR$/in_array().php" />
         <option value="$PROJECT_DIR$/key() example.php" />
+        <option value="$PROJECT_DIR$/list().php" />
       </list>
     </option>
   </component>
@@ -382,6 +384,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/key() example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="105">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list().php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
