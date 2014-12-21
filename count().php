@@ -4,7 +4,6 @@ $a[0] = 1;
 $a[1] = 3;
 $a[2] = 5;
 $result = count($a);
-echo ($result);
 // $result == 3
 
 $b[0]  = 7;
